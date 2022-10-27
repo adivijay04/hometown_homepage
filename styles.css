@@ -1,0 +1,118 @@
+body{
+  font-family: 'EB Garamond', serif;
+  color: white;
+  margin: 0px;
+}
+
+#hero{
+  background-image: url("images/chennai.webp");
+  background-size: cover;
+  text-align: center;
+  height: 343px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.head{
+  margin-top: 40px;
+  padding: 5px 10px;
+  background-color: #1D3557;
+  color: white;
+}
+
+.sub{
+  height: 60px;
+  width: 412px;
+  left: 154px;
+  top: 172px;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: #A8DADC;
+  color: white;
+}
+
+#hero1{
+  text-align: center;
+  color: #1D3557;
+  background-color: #F1FAEE;
+}
+
+#hero2, #hero3, #hero4{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: #1D3557;
+  background-color: #F1FAEE;
+}
+
+#hero3{
+  font-size: 16px;
+}
+
+.beach{
+  border-radius: 50%;
+  width: 150px;
+}
+
+.stadium{
+  border-radius: 50%;
+  width: 150px;
+}
+
+.park{
+  border-radius: 50%;
+  width: 150px;
+}
+
+.b-img{
+  width: 183px;
+  height: 32px;
+  margin-top: 0px;
+  margin-bottom: 17px;
+}
+
+.p-img{
+  width: 197px;
+  height: 38px;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+
+.s-img{
+  width: 197px;
+  height: 38px;
+  margin-top: 0px;
+  margin-bottom: 16px;
+}
+
+#hero5{
+  background-color: #A8DADC;
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  border-bottom: 7px solid #1D3557;
+  left: 160px;
+  top: 50px;
+  border-radius: 10px;
+  color: #1D3557;
+}
+
+.pic{
+  width: 180px;
+  height: 248.6666717529297px;
+  width: 180px;
+  left: 173px;
+  top: 73px;
+  border-radius: 10px;
+}
+
+.card{
+  padding: 7px 14px;
+}
